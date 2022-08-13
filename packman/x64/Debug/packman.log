@@ -1,0 +1,3 @@
+﻿  game.cpp
+C:\Users\erane\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מטלות עדכני\שנה ב\c++\pacmanQ3 - final\pacmanQ3 - final\packman\game.cpp(115,35): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  packman.vcxproj -> C:\Users\erane\OneDrive - The Academic College of Tel-Aviv Jaffa - MTA\מטלות עדכני\שנה ב\c++\pacmanQ3 - final\pacmanQ3 - final\x64\Debug\packman.exe
